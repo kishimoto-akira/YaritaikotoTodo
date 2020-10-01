@@ -11,7 +11,7 @@ easy.php,normal.php,difficult.php...ラジオボタンで分けられたそれ�
 
 Todo.php...mysqlのデータベースへの指令をまとめたファイル
 
-_ajax.php...
+_ajax.php...ajaxで起こる例外の処理を書き記したファイル
 
 todo.js...ClickやSubmitしたときの挙動,idを取ってきたり裏の挙動に関わるファイル、jquery,ajax
 
